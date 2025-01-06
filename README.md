@@ -1,4 +1,4 @@
-# JoKenGuu
+                                                # JoKenGuu
 # Sistema de Detecção de Pedra, Papel e Tesoura com YOLO
 
 Este projeto implementa um sistema de detecção de **Pedra, Papel e Tesoura** utilizando redes neurais convolucionais (CNNs) e o modelo **YOLO** (You Only Look Once) para reconhecer as opções de jogo em tempo real a partir de imagens ou vídeos.
